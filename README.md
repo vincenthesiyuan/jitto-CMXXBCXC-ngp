@@ -63,6 +63,10 @@ After training , the checkpoint file and validated images will be generated to t
 
 All the comptetition dataset is at the folder **./data/nerf_synthetic**, and you can modify it at the config file for each dataset.
 
+(A) dataset download: [here](https://cloud.tsinghua.edu.cn/f/63016014a4ad410997f5/?dl=1)
+
+(B) more test dataset: [here](https://cloud.tsinghua.edu.cn/f/d998312699ca45068ab1/?dl=1)
+
 
 
 ------
